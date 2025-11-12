@@ -1,4 +1,4 @@
-package com.portfolio.bookstore.domain
+package com.portfolio.bookstore.domain.entities
 
 import jakarta.persistence.CascadeType
 import jakarta.persistence.Entity

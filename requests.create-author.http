@@ -1,0 +1,12 @@
+### POST request to example server
+POST http://localhost:8080/v1/authors
+Content-Type: application/json
+
+{
+  "name": "test",
+  "age": 30,
+  "description": "test description",
+  "image": "test"
+}
+
+###
